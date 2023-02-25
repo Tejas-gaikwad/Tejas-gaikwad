@@ -1,4 +1,4 @@
-### Hi there I'm Tejas👋
+### Hi there I'm Tejas👋 
 
 
 <!-- **Tejas-gaikwad/Tejas-gaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -11,6 +11,6 @@ My portfolio website https://tejas-gaikwad.github.io/home/ . It is currently in 
 - 👯 I’m looking to collaborate on Flutter Projects and Open-Source...
 - 🤔 I’m looking for help with backend dev and Open-source Contribution...
 - 💬 Ask me about Flutter...
-- 📫 How to reach me: tejasg4646@gmail.com...githu
+- 📫 How to reach me: tejasg4646@gmail.com...
 
 
