@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-My portfolio website https://tejas-gaikwad.github.io/home/ . It is currently in development and not optimized for mobile screens.
+My portfolio website https://tejas-poortfolio.netlify.app/ . It is currently in development and not optimized for mobile screens.
 
 - 🔭 I’m currently working on My side projects...
 - 👯 I’m looking to collaborate on Flutter Projects and Open-Source...
