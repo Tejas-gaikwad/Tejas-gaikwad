@@ -17,7 +17,7 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 ### 📫 How to Reach Me
 
 - Email: [tejasg4646@gmail.com](mailto:tejasg4646@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/](https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/)
+- LinkedIn: [Tejas Gaikwad](https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/)
 - Twitter: [@tejasg0504](https://twitter.com/tejasg0504)
 
 ### My portfolio website (https://tejas-poortfolio.netlify.app/)
