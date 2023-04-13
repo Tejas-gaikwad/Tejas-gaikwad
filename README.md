@@ -17,7 +17,7 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 ### 📫 How to Reach Me
 
 - Email: [tejasg4646@gmail.com](mailto:tejasg4646@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/](https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/)
 - Twitter: [@tejasg0504](https://twitter.com/tejasg0504)
 
 ### My portfolio website (https://tejas-poortfolio.netlify.app/)
@@ -33,7 +33,7 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://cdn.dribbble.com/users/1622791/screenshots/11174104/media/10f980d41342cfb900a4b8e6d025bb79.png)(https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
 
 
 ### 🏆 Accomplishments
