@@ -4,8 +4,8 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 
 ### 🔭 Current Projects
 
--[Project 1](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)
--[Project 2](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)
+- [[Project 1](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)]
+- [[Project 2](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)]
 
 ### 🌱 What I'm Learning
 
