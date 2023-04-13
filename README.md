@@ -31,9 +31,9 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 
 ### 📈 Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejas-gaikwad&show_icons=true&theme=dark)](https://github.com/Tejas-gaikwad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-gaikwad&layout=compact&theme=dark)](https://github.com/Tejas-gaikwad)
 
 
 ### 🏆 Accomplishments
