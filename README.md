@@ -10,21 +10,24 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 
 ### 🌱 What I'm Learning
 
-- [Skill 1](https://cdn.dribbble.com/users/1622791/screenshots/11174104/media/10f980d41342cfb900a4b8e6d025bb79.png)
-- [Skill 2](https://www.example.com/)
-- [Skill 3](https://www.example.com/)
+- [Artificial Intelligence]
+- [FullStack Developement]
+- [Unreal engine and Blender]
 
 ### 📫 How to Reach Me
 
-- Email: [Your Email Address](mailto:youremail@example.com)
+- Email: [tejasg4646@gmail.com](mailto:tejasg4646@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Twitter: [@tejasg0504](https://twitter.com/tejasg0504)
+
+### My portfolio website (https://tejas-poortfolio.netlify.app/)
 
 ### 💬 Ask Me About
 
-- [Topic 1](https://www.example.com/)
-- [Topic 2](https://www.example.com/)
-- [Topic 3](https://www.example.com/)
+- [Flutter]
+- [MERN]
+- [coding]
+- [motorcycles]
 
 ### 📈 Stats
 
@@ -37,34 +40,4 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 - [Accomplishment 1](https://www.example.com/)
 - [Accomplishment 2](https://www.example.com/)
 - [Accomplishment 3](https://www.example.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there I'm Tejas👋 
-
-
-<!-- **Tejas-gaikwad/Tejas-gaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
-My portfolio website https://tejas-poortfolio.netlify.app/ . It is currently in development and not optimized for mobile screens.
-
-- 🔭 I’m currently working on My side projects...
-- 👯 I’m looking to collaborate on Flutter Projects and Open-Source...
-- 🤔 I’m looking for help with backend dev and Open-source Contribution...
-- 💬 Ask me about Flutter...
-- 📫 How to reach me: tejasg4646@gmail.com...
-
 
