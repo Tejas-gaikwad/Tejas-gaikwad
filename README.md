@@ -20,7 +20,7 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 - LinkedIn: [Tejas Gaikwad](https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/)
 - Twitter: [@tejasg0504](https://twitter.com/tejasg0504)
 
-### <a href="https://tejas-poortfolio.netlify.app/"><img src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Dribbble_logo_logos-512.png](https://cdn4.iconfinder.com/data/icons/web-development-6/128/website-development-browser-512.png)" alt="Portfolio" width="50"></a>
+### <a href="https://tejas-poortfolio.netlify.app/"><img src="" alt="Portfolio" width="50"></a>
 
 
 ## Languages and Tools:
