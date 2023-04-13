@@ -5,11 +5,12 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 ### 🔭 Current Projects
 
 - [[Project 1](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)]
-- [[Project 2](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)]
+- [[Project 2](https://github.com/Tejas-gaikwad/Amazon-clone-using-nodejs-flutter)]
+- [[Project 3](https://github.com/Tejas-gaikwad/insta_clone)]
 
 ### 🌱 What I'm Learning
 
-- [Skill 1](https://www.example.com/)
+- [Skill 1](https://cdn.dribbble.com/users/1622791/screenshots/11174104/media/10f980d41342cfb900a4b8e6d025bb79.png)
 - [Skill 2](https://www.example.com/)
 - [Skill 3](https://www.example.com/)
 
