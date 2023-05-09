@@ -13,6 +13,7 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 - [Artificial Intelligence]
 - [FullStack Developement]
 - [Unreal engine and Blender]
+- [HardWare Product Development]
 
 ### 📫 How to Reach Me
 
