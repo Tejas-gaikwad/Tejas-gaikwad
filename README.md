@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building apps, animations, product development, and I love to ride motorcycle (currently i dont have one).
+I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building apps, animations, product development, and I love to ride motorcycle.
 
 ### 🔭 Current Projects
 
