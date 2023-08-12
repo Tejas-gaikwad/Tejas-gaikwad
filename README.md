@@ -32,7 +32,6 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" alt="C++"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="30" alt="CSS3"/>
-  
 </p>
 <p>
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30" alt="Flutter"/>
