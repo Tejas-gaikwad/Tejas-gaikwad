@@ -4,9 +4,9 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 
 ### 🔭 Current Projects
 
-- [[Project 1](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)]
-- [[Project 2](https://github.com/Tejas-gaikwad/Amazon-clone-using-nodejs-flutter)]
-- [[Project 3](https://github.com/Tejas-gaikwad/insta_clone)]
+- [[Project -> Dall-E image generator mobile app](https://github.com/Tejas-gaikwad/dall-e_openAI_flutter_mobile_app)]
+- [[Project -> Amazon app clone using flutter and Nodejs, express, mongo db backend](https://github.com/Tejas-gaikwad/Amazon-clone-using-nodejs-flutter)]
+- [[Project -> Instagram clone using flutter and firebase](https://github.com/Tejas-gaikwad/insta_clone)]
 
 ### 🌱 What I'm Learning
 
