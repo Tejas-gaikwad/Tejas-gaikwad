@@ -21,8 +21,7 @@ I'm Tejas Gaikwad, a Software Developer from Pune. I'm passionate about building
 - LinkedIn: [Tejas Gaikwad](https://www.linkedin.com/in/tejas-gaikwad-216b3a19a/)
 - Twitter: [@tejasg0504](https://twitter.com/tejasg0504)
 - Medium: [you can read my articles here](https://medium.com/@tejasg4646)
-
-### <a href="https://tejas-poortfolio.netlify.app/"><img src="" alt="Portfolio" width="50"></a>
+- Website: [Tejas Gaikwad](https://tejas-poortfolio.netlify.app/)
 
 
 ## Languages and Tools:
